@@ -1,0 +1,11 @@
+Model Information:
+* title:	Escape-POD - capsule de sauvetage
+* source:	https://sketchfab.com/3d-models/escape-pod-capsule-de-sauvetage-e5b79c6c2e3d41a1953bbedf351d15c7
+* author:	perceval-66 (https://sketchfab.com/perceval-66)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Escape-POD - capsule de sauvetage" (https://sketchfab.com/3d-models/escape-pod-capsule-de-sauvetage-e5b79c6c2e3d41a1953bbedf351d15c7) by perceval-66 (https://sketchfab.com/perceval-66) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
